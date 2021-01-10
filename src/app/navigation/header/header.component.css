@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover , 
+a:active {
+    color: lightgray;
+}
+
+.navigation-items{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+
+.nav-caption {
+    padding-left: 6px;
+    display:inline-block;
+}
